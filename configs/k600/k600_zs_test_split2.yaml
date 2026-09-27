@@ -1,0 +1,26 @@
+seed: 1024
+data:
+    dataset: k600
+    modality: video
+    num_segments: 8
+    seg_length: 1
+    batch_size: 32 # 32 # 16 # 11
+    workers: 8
+    num_classes: 160
+    image_tmpl: 'img_{:05d}.jpg'
+    val_root: '/PATH/TO/DATASET/K600/test_file_256'
+    val_list: lists/k600_test/k160_test_split2.txt
+    label_list: lists/k600_test/rephrased/k160_test_s2_rephrased.csv # lists/k600_test/rephrased/k160_test_s2_rephrased.csv lists/k600_test/k160_labels_split2.csv
+    index_bias: 1
+    input_size: 224
+network:
+    arch: ViT-B/16  # ViT-B/32 ViT-B/16 ViT-L/14 
+    init: True
+    drop_out: 0.0 
+    emb_dropout: 0.0
+    sim_header: vision_proj # Self-Distill    # Transf, None, Selective
+    interaction: DP  # DP
+    temporal_layer: 1  
+logging:
+    print_freq: 10
+    eval_freq: 1

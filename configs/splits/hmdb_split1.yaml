@@ -1,0 +1,26 @@
+seed: 1024
+data:
+    dataset: hmdb51
+    modality: video
+    num_segments: 8
+    seg_length: 1
+    batch_size: 32 # 32 # 16
+    workers: 8
+    num_classes: 51
+    image_tmpl: 'image_{:06d}.jpg'
+    val_root: '/PATH/TO/DATASET/HMDB51_256/data/'
+    val_list: 'lists/hmdb51/vallist_split1.txt'     # 'lists/hmdb51/vallist_split3.txt' # 'lists/hmdb51/hmdb_full_for_zeroshot.txt'
+    label_list: 'lists/hmdb51/rephrased/hmdb_rephrased.csv' # 'lists/hmdb51/hmdb51_labels.csv'    # 'lists/hmdb51/rephrased/hmdb_rephrased.csv' 'lists/hmdb51/hmdb51_labels.csv'
+    index_bias: 1
+    input_size: 224
+network:
+    arch: ViT-B/16  # ViT-L/14 ViT-B/16 ViT-B/32
+    init: True
+    drop_out: 0.0
+    emb_dropout: 0.0
+    sim_header: vision_proj # Self-Distill    # Transf, None, Selective
+    interaction: DP  # DP
+    temporal_layer: 1
+logging:
+    print_freq: 10
+    eval_freq: 1

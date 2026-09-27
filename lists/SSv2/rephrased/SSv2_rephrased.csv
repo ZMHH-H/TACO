@@ -1,0 +1,175 @@
+id,name
+0,Approaching something with your camera: Moving the camera in a direction that brings it closer to the subject or object being filmed
+1,"Attaching something to something: Connecting or adhering one object to another object, such as using glue or tape"
+2,"Bending something so that it deforms: Using force to change the shape or form of an object, causing it to bend or become distorted"
+3,"Bending something until it breaks: Applying force to an object in a manner that causes it to deform or change shape, eventually leading to it breaking or snapping"
+4,Burying something in something: Covering or concealing an object or substance by placing it inside or underneath another object or substance
+5,"Closing something: Sealing or shutting an object that has an opening or lid, such as a box or door"
+6,Covering something with something: Placing an object over or on top of another object to conceal or protect it
+7,Digging something out of something: Removing an object or substance from inside or buried within another object or substance
+8,Dropping something behind something: Releasing an object so that it falls or lands behind or out of sight of another object
+9,Dropping something in front of something: Releasing an object from a higher position so that it falls down in front of another object
+10,Dropping something into something: Releasing an object from a higher position so that it falls and enters inside another object
+11,Dropping something next to something: Releasing an object from a higher position so that it falls down beside or adjacent to another object
+12,Dropping something onto something: Releasing an object from a higher position so that it falls down onto another object
+13,"Failing to put something into something because something does not fit: Attempting to insert or place an object into another object, but it doesn't fit properly and cannot be fully inserted"
+14,Folding something: Manipulating an object to create creases or bends in order to reduce its size or alter its shape
+15,"Hitting something with something: Striking or impacting an object with another object, typically with force"
+16,"Holding something: Grasping or gripping an object firmly, typically with one's hand or hands"
+17,"Holding something behind something: Keeping an object hidden or partially obscured behind another object, typically with one's hand"
+18,Holding something in front of something: Grasping or gripping an object and positioning it so that it is located between the camera and another object
+19,Holding something next to something: Keeping an object positioned in close proximity to another object without making contact
+20,Holding something over something: Keeping an object positioned above or suspended over another object without letting it make contact
+21,"Laying something on the table on its side, not upright: Placing an object onto a surface or table in a horizontal position rather than in an upright position"
+22,Letting something roll along a flat surface: Allowing an object to roll or slide across a flat surface due to momentum or gravity
+23,Letting something roll down a slanted surface: Allowing an object to roll or slide down a sloped surface due to gravity or momentum
+24,"Letting something roll up a slanted surface, so it rolls back down: Allowing an object to roll or slide up a slanted surface due to momentum or gravity, but then roll or slide back down due to the angle of the surface"
+25,"Lifting a surface with something on it but not enough for it to slide down: Elevating a surface or object that has another object resting on it, but not enough for the second object to slide or roll off"
+26,"Lifting a surface with something on it until it starts sliding down: Elevating a surface or object that has another object resting on it, until the second object begins to slide or roll off due to gravity or lack of friction"
+27,Lifting something up completely without letting it drop down: Elevating an object fully off the surface and then holding it without releasing it so that it falls back down
+28,"Lifting something up completely, then letting it drop down: Elevating an object fully off the surface and then releasing it so that it falls back down under the influence of gravity"
+29,Lifting something with something on it: Raising an object while it still has another object resting or positioned on top of it
+30,Lifting up one end of something without letting it drop down: Raising one side or end of an object while ensuring that it remains elevated and doesn't fall back down
+31,"Lifting up one end of something, then letting it drop down: Raising one side or end of an object and then allowing it to fall back down under the influence of gravity"
+32,Moving away from something with your camera: Displacing the camera in a direction that takes it farther from the subject or object being filmed
+33,Moving part of something: Displacing or adjusting a specific portion or component of an object without moving the entire object
+34,Moving something across a surface until it falls down: Displacing an object across a surface or table until it loses balance and falls over
+35,Moving something across a surface without it falling down: Displacing an object across a surface or table without it tipping or falling over
+36,"Moving something and something away from each other: Displacing two objects in opposite directions, creating a greater distance between them"
+37,"Moving something and something closer to each other: Displacing two objects in opposite directions, bringing them nearer to each other"
+38,Moving something and something so they collide with each other: Displacing two objects or substances in a manner that causes them to collide or impact each other
+39,Moving something and something so they pass each other: Displacing two objects or substances in a manner that causes them to cross paths or move past each other
+40,Moving something away from something: The action of displacing an object in a direction that takes it farther from another object
+41,Moving something away from the camera: The action of displacing an object in a direction that takes it farther from the camera's viewpoint
+42,Moving something closer to something: The action of displacing an object in a direction that brings it nearer to another object
+43,Moving something down: Displacing an object in a direction that takes it lower or closer to the ground or surface
+44,Moving something towards the camera: Displacing an object closer to the camera or viewer
+45,Moving something up: Displacing an object in a direction that takes it higher or farther away from the ground or surface
+46,Opening something: Removing a seal or lid to reveal the contents of an object or to allow access to its interior
+47,Picking something up: Lifting an object from a surface or location using one's hands or a tool
+48,Piling something up: Placing multiple objects or substances on top of each other in a stack or pile
+49,"Plugging something into something: Connecting or inserting an object into a receptacle or port, such as a plug into an electrical outlet"
+50,"Plugging something into something but pulling it right out as you remove your hand: Connecting an object or device to another object or device, but immediately disconnecting it before it is fully inserted or connected"
+51,"Poking a hole into some substance: Using a pointed object to create an opening or puncture in a substance, such as piercing a piece of fruit or a balloon"
+52,"Poking a hole into something soft: Using a pointed object to create an opening or puncture in a soft or pliable substance, such as a piece of bread or a sponge"
+53,"Poking a stack of something so the stack collapses: Using a pointed object to prod or tap a pile or stack of objects, causing it to topple or fall apart"
+54,Poking a stack of something without the stack collapsing: Using a pointed object to prod or tap a pile or stack of objects without causing it to collapse or fall apart
+55,"Poking something so it slightly moves: Using a gentle, quick motion to push or prod an object, causing it to shift or move slightly"
+56,"Poking something so lightly that it doesn't or almost doesn't move: Using a light, gentle motion to touch or prod an object without causing it to move significantly"
+57,Poking something so that it falls over: Using a quick motion to prod or tap an object in a way that causes it to lose balance and fall over
+58,Poking something so that it spins around: Using a quick motion to prod or tap an object in a way that causes it to rotate or spin
+59,Pouring something into something: The action of transferring a substance or liquid from one container to another by pouring it
+60,Pouring something into something until it overflows: Transferring a substance from one container to another until the second container becomes too full and the substance spills or overflows
+61,Pouring something onto something: Transferring a substance from one container to another by pouring it directly onto the second object
+62,Pouring something out of something: Emptying the contents of one container by pouring them out of another container
+63,"Pretending or failing to wipe something off of something: Simulating the action of wiping or cleaning an object, but either not actually touching the object or failing to remove the substance"
+64,Pretending or trying and failing to twist something: Simulating the action of twisting or rotating an object without successfully completing the action
+65,Pretending to be tearing something that is not tearable: Simulating the action of ripping or tearing an object that is not able to be torn or ripped
+66,Pretending to close something without actually closing it: Simulating the act of shutting or sealing something without completing the action
+67,Pretending to open something without actually opening it: Simulating the action of accessing or revealing the contents of an object without actually doing it
+68,Pretending to pick something up: Simulating the action of grasping or lifting an object without actually doing it
+69,Pretending to poke something: Simulating the action of poking or prodding an object without actually touching it or making contact
+70,"Pretending to pour something out of something, but something is empty: Simulating the action of emptying a container or object, but it is actually already empty"
+71,Pretending to put something behind something: Simulating the action of placing an object behind or out of sight of another object
+72,Pretending to put something into something: Simulating the action of inserting or placing an object inside another object without actually doing it
+73,Pretending to put something next to something: Simulating the action of placing an object next to another object without actually doing it
+74,Pretending to put something on a surface: Simulating the action of placing an object onto a surface without actually doing it
+75,Pretending to put something onto something: Simulating the action of placing an object onto another object or surface without actually doing so
+76,"Pretending to put something underneath something: Simulating the action of placing an object underneath another object, without actually doing so"
+77,"Pretending to scoop something up with something: Simulating the action of scooping or lifting an object with another object, without actually touching or moving either object"
+78,Pretending to spread air onto something: Simulating the action of blowing air or fanning an object without actually doing it
+79,"Pretending to sprinkle air onto something: Simulating the action of sprinkling or scattering a substance, but with air or no substance actually being released"
+80,Pretending to squeeze something: Simulating the action of compressing or deforming an object with one's hands without actually doing so
+81,Pretending to take something from somewhere: Simulating the action of removing an object from a specific location without actually doing it
+82,Pretending to take something out of something: Simulating the action of removing or extracting something from within another object without actually doing it
+83,Pretending to throw something: Simulating the action of propelling an object through the air with force without actually releasing it
+84,Pretending to turn something upside down: Simulating the action of inverting or flipping an object so that its top becomes its bottom and its bottom becomes its top without actually doing so
+85,Pulling something from behind of something: Using force to remove or extract an object from behind or out of another object or surface
+86,Pulling something from left to right: Using force to draw or drag an object horizontally from the left side to the right side
+87,Pulling something from right to left: Using force to draw or drag an object horizontally from the right side to the left side
+88,Pulling something onto something: Using force to draw or drag an object onto or onto the surface of another object
+89,Pulling something out of something: Removing an object or substance from inside or buried within another object or substance
+90,"Pulling two ends of something but nothing happens: Applying force to an object in opposite directions, but there is no visible or significant change in the object"
+91,"Pulling two ends of something so that it gets stretched: Applying force to an object in opposite directions, causing it to become longer or more elongated"
+92,"Pulling two ends of something so that it separates into two pieces: Applying force to an object in opposite directions, causing it to break or tear into two separate pieces"
+93,Pushing something from left to right: Applying force to an object in a manner that causes it to move horizontally from the left side to the right side
+94,Pushing something from right to left: Applying force to an object in a manner that causes it to move horizontally from the right side to the left side
+95,Pushing something off of something: Applying force to an object in a manner that causes it to fall or slide off of another surface or object
+96,Pushing something onto something: Applying force to an object in order to position or place it onto another object or surface
+97,Pushing something so it spins: Applying force to an object in a manner that causes it to rotate or spin on its axis
+98,"Pushing something so that it almost falls off but doesn't: Applying force to an object in a manner that causes it to teeter or become unsteady, but ultimately not completely fall off its current position"
+99,Pushing something so that it falls off the table: Applying force to an object in a manner that causes it to slide or roll off the edge of a table or surface
+100,Pushing something so that it slightly moves: Applying force to an object in a manner that causes it to shift or move slightly
+101,Pushing something with something: Applying force to an object using another object to propel or move it in a specific direction
+102,"Putting number of something onto something: Placing multiple objects onto another object, typically in a specific quantity or arrangement"
+103,"Putting something and something on the table: Placing two separate objects onto a table or surface, typically in a specific arrangement or configuration"
+104,Putting something behind something: Placing an object in a position that is partially or fully obscured by another object
+105,Putting something in front of something: Placing an object in front of another object or surface
+106,"Putting something into something: Inserting or placing an object inside another object, such as putting a key into a lock"
+107,Putting something next to something: Placing an object in close proximity to another object without making contact
+108,Putting something on a flat surface without letting it roll: Placing an object onto a flat surface and ensuring that it remains stationary without rolling or sliding
+109,Putting something on a surface: Placing an object onto a flat or level surface
+110,"Putting something on the edge of something so it is not supported and falls down: Placing an object onto the edge of a surface or object, causing it to fall or topple over due to lack of support"
+111,"Putting something onto a slanted surface but it doesn't glide down: Placing an object onto a surface that is angled or sloped, but it doesn't slide or roll down due to a lack of momentum or friction"
+112,Putting something onto something: Placing an object onto another surface or object
+113,"Putting something onto something else that cannot support it so it falls down: Placing an object onto another object or surface that is unable to support its weight, causing it to fall or collapse"
+114,Putting something similar to other things that are already on the table: Placing an object onto a surface or table where there are already similar or related objects present
+115,"Putting something that can't roll onto a slanted surface, so it slides down: Placing an object onto a slanted surface that is unable to roll, but slides down due to the angle of the surface"
+116,"Putting something that can't roll onto a slanted surface, so it stays where it is: Placing an object onto a slanted surface that is unable to roll or slide due to its shape or lack of mobility"
+117,"Putting something that cannot actually stand upright upright on the table, so it falls on its side: Placing an object onto a surface or table in an upright position, but it is unable to stand or balance and falls over onto its side"
+118,"Putting something underneath something: Placing an object underneath another object or surface, such as a support or cushion"
+119,Putting something upright on the table: Placing an object onto a surface or table in an upright position
+120,"Putting something, something and something on the table: Placing three separate objects onto a table or surface, typically in a specific arrangement or configuration"
+121,"Removing something, revealing something behind: Taking away an object or cover to expose or show something that was previously hidden or concealed"
+122,"Rolling something on a flat surface: Moving an object in a circular motion along a flat surface, causing it to rotate or spin"
+123,Scooping something up with something: Using a tool or container to collect or gather something by lifting it in a scooping motion
+124,Showing a photo of something to the camera: Displaying or exhibiting a photograph or image in front of a camera or viewer
+125,Showing something behind something: Revealing or exposing an object or item that was previously hidden or obscured by another object
+126,Showing something next to something: Displaying or exhibiting an object or substance next to or in close proximity to another object
+127,Showing something on top of something: Displaying an object in a position where it is resting or positioned above another object
+128,Showing something to the camera: Displaying or exhibiting an object or substance in front of a camera or viewer
+129,Showing that something is empty: Demonstrating or revealing that an object or container does not contain any contents
+130,Showing that something is inside something: Demonstrating or revealing that an object is contained within or hidden inside another object
+131,"Something being deflected from something: An object or substance being redirected or bounced off of another object or surface, rather than continuing in its original path"
+132,Something colliding with something and both are being deflected: Two objects or substances colliding with each other and both being redirected or bounced off of each other
+133,Something colliding with something and both come to a halt: Two objects or substances colliding with each other and both stopping or ceasing motion
+134,"Something falling like a feather or paper: An object dropping slowly and gently through the air, much like the way a feather or piece of paper falls"
+135,"Something falling like a rock: An object dropping quickly and heavily through the air, similar to the way a rock falls"
+136,Spilling something behind something: Accidentally releasing or pouring a substance so that it lands or drips behind or out of sight of another object
+137,"Spilling something next to something: Accidentally releasing or pouring a substance so that it lands or spills close to, but not on, another object"
+138,Spilling something onto something: Accidentally releasing or pouring a substance so that it lands or spills onto another object
+139,"Spinning something so it continues spinning: Applying force to an object in a manner that causes it to rotate or spin around its axis, and allowing it to continue spinning"
+140,Spinning something that quickly stops spinning: Rotating an object quickly and then abruptly stopping its motion
+141,Spreading something onto something: Applying a substance onto another object or surface in a manner that covers or coats it
+142,Sprinkling something onto something: Applying a substance in a scattered or dispersed manner onto another object or surface
+143,Squeezing something: Applying pressure to an object in a manner that compresses or deforms it
+144,Stacking number of something: Piling multiple objects on top of each other to create a stack or tower
+145,"Stuffing something into something: Inserting or pushing an object forcefully into another object, typically filling or packing it tightly"
+146,Taking one of many similar things on the table: Removing one object from a group of similar or identical objects that are located on a surface or table
+147,Taking something from somewhere: Removing an object from a specific location or source
+148,"Taking something out of something: Removing an object from inside another object, such as taking an item out of a box"
+149,Tearing something into two pieces: Separating an object or material into two distinct pieces by applying force in opposite directions
+150,"Tearing something just a little bit: Applying force to an object, such as paper, to create a small rip or opening without completely separating it"
+151,"Throwing something: Propelling an object through the air with force, usually with the intention of making it land at a specific location"
+152,Throwing something against something: Propelling an object through the air with force so that it collides with another object
+153,Throwing something in the air and catching it: Propelling an object upward into the air and then successfully catching it as it descends
+154,Throwing something in the air and letting it fall: Propelling an object through the air with force and allowing it to fall back down due to gravity
+155,"Throwing something onto a surface: The act of propelling an object through the air with force, causing it to land on a surface"
+156,"Tilting something with something on it slightly so it doesn't fall down: Using force to adjust the angle or position of an object or surface that has another object resting on it, in order to prevent the second object from falling or sliding off"
+157,"Tilting something with something on it until it falls off: Changing the angle or inclination of an object while it has another object resting on it, causing the second object to eventually detach or fall off"
+158,Tipping something over: Using force to tilt or tip an object so that it falls over or onto its side
+159,"Tipping something with something in it over, so something in it falls out: Using force to tilt or tip an object that contains something, causing the contents to spill out"
+160,Touching (without moving) part of something: Making physical contact with a specific area or portion of an object without causing any movement
+161,"Trying but failing to attach something to something because it doesn't stick: Attempting to connect or adhere one object to another object, but the objects don't stick together or stay connected"
+162,"Trying to bend something unbendable so nothing happens: Attempting to deform or change the shape of an object that is not pliable or malleable, resulting in no visible or significant change in the object"
+163,"Trying to pour something into something, but missing so it spills next to it: Attempting to transfer a substance from one container to another but accidentally spilling it next to or around the intended target"
+164,Turning something upside down: Inverting an object so that its top becomes its bottom and its bottom becomes its top
+165,Turning the camera downwards while filming something: Adjusting the camera angle so that it is pointed downwards while filming an object or scene
+166,Turning the camera left while filming something: Rotating the camera to the left while continuing to record footage of a subject
+167,Turning the camera right while filming something: Rotating the camera to the right while continuing to record footage of a subject
+168,Turning the camera upwards while filming something: Adjusting the camera angle so that it is pointed upwards while filming an object or scene
+169,"Twisting (wringing) something wet until water comes out: Using force to twist or wring an object, such as a wet cloth, in order to squeeze out excess liquid"
+170,Twisting something: Using force to rotate or turn an object around its axis
+171,Uncovering something: Removing a cover or lid to reveal the contents of an object or to allow access to its interior
+172,"Unfolding something: Unfurling or opening up an object or material, such as unfolding a piece of paper or a map"
+173,Wiping something off of something: Using a cloth or other object to remove a substance or material from the surface of another object

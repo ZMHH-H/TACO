@@ -1,0 +1,36 @@
+# Python caches and build artifacts
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+*.egg-info/
+/build/
+/dist/
+
+# Local virtual environments
+/.venv/
+/venv/
+
+# macOS and editor files
+.DS_Store
+._*
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Training outputs, checkpoints, and logs
+/exps/
+/checkpoints/
+/runs/
+/wandb/
+*.pt
+*.pth
+*.ckpt
+*.log
+/zs_eval.txt
+events.out.tfevents.*
+
+# Keep dataset annotation lists (*.txt, *.csv, *.json) tracked.

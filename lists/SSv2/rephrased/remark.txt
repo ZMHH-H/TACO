@@ -1,0 +1,4 @@
+SSv2中有174个类别，但Froster提供的Base2New的json文件只有173个类别
+去掉了id 120的Putting something, something and something on the table
+这个类别与id 102的Putting something and something on the table非常相似
+后续实验可以考虑是否加上这个类别

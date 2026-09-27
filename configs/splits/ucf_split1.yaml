@@ -1,0 +1,26 @@
+seed: 1024
+data:
+    dataset: ucf101
+    modality: video
+    num_segments: 8
+    seg_length: 1
+    batch_size: 32 # 32 # 16
+    workers: 8
+    num_classes: 101
+    image_tmpl: 'image_{:04d}.jpg'
+    val_root: '/PATH/TO/DATASET/UCF101_256/data/'
+    val_list: 'lists/ucf101/testlist01-1.txt'  # 'lists/ucf101/testlist03-1.txt' # 'lists/ucf101/ucf_full_for_zeroshot-1.txt'
+    label_list: 'lists/ucf101/rephrased/ucf101_rephrased.csv' # 'lists/ucf101/ucf_labels.csv'  # 'lists/ucf101/ucf_labels.csv' # 'lists/ucf101/rephrased/ucf101_rephrased.csv'
+    index_bias: 1
+    input_size: 224
+network:
+    arch: ViT-B/16  # ViT-L/14 ViT-B/16 ViT-B/32
+    init: True
+    drop_out: 0.0
+    emb_dropout: 0.0 
+    sim_header: vision_proj # Self-Distill    # Transf, None, Selective
+    interaction: DP  # DP
+    temporal_layer: 1
+logging:
+    print_freq: 10
+    eval_freq: 1
