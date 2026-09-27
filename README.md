@@ -8,8 +8,8 @@ Official implementation of **TACO**, a simple and effective framework for **task
 
 Standard fine-tuning optimizes representations within the training distribution, whereas open-vocabulary evaluation requires generalization beyond it. TACO addresses this inconsistency through two complementary designs:
 
-- **Relative Structure Distillation (RSD):** preserves teacher-consistent geometry through random geometric anchors sampled on the CLIP hypersphere, regularizing relations beyond the training categories without collecting additional OOD data. An exponential moving average (EMA) teacher provides a slowly evolving reference.
-- **Specialization Projection:** decouples the representation space from the optimization space using a lightweight residual linear projection. The projection is discarded for open-vocabulary evaluation to retain more generalizable representations.
+- **Relative Structure Distillation (RSD):** preserves teacher-consistent geometry through random geometric anchors sampled on the CLIP hypersphere, regularizing relations beyond the training categories without collecting additional OOD data. 
+- **Specialization Projection:** decouples the representation space from the optimization space using a lightweight residual linear projection.
 
 <p align="center">
   <img src="figure/TACO.png" alt="Overview of TACO: relative structure distillation, specialization projection, and geometric anchor construction" width="900">
@@ -55,10 +55,10 @@ Each line contains a video path relative to the configured data root and its int
 
 Evaluation uses **8 frames at 224 × 224 resolution** and **3 temporal clips × 1 spatial crop** per video.
 
-| Architecture | Input | Views | UCF-101 | HMDB-51 | Kinetics-600 | Checkpoint | Training config |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ViT-B/16 | 8 × 224 | 3 × 1 | 85.6 ± 1.2 | 60.0 ± 0.5 | 77.0 ± 0.9 | — | [config](configs/k400/k400_train_video_vitb-16-f8.yaml) |
-| ViT-L/14 | 8 × 224 | 3 × 1 | 91.4 ± 0.7 | 64.2 ± 0.8 | 83.9 ± 0.7 | — | [config](configs/k400/k400_train_video_vitl-14-f8.yaml) |
+| Architecture | UCF-101 | HMDB-51 | Kinetics-600 | Checkpoint | Config |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| ViT-B/16 | 85.6&nbsp;±&nbsp;1.2 | 60.0&nbsp;±&nbsp;0.5 | 77.0&nbsp;±&nbsp;0.9 | — | [config](configs/k400/k400_train_video_vitb-16-f8.yaml) |
+| ViT-L/14 | 91.4&nbsp;±&nbsp;0.7 | 64.2&nbsp;±&nbsp;0.8 | 83.9&nbsp;±&nbsp;0.7 | — | [config](configs/k400/k400_train_video_vitl-14-f8.yaml) |
 
 
 ## 🚤 Training
